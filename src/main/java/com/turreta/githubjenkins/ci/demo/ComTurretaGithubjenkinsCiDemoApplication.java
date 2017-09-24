@@ -10,5 +10,6 @@ public class ComTurretaGithubjenkinsCiDemoApplication {
 		SpringApplication.run(ComTurretaGithubjenkinsCiDemoApplication.class, args);
 		System.out.println("Test Jenkins build triggers");
 		System.out.println("Pushed from GitHub Desktop!");
+		System.out.println("Pushed from GitHub Desktop! - Part 2");
 	}
 }
