@@ -11,7 +11,7 @@ public class ComTurretaGithubjenkinsCiDemoApplication {
 		System.out.println("Test Jenkins build triggers");
 		System.out.println("Pushed from GitHub Desktop!");
 		System.out.println("Pushed from GitHub Desktop! - Part 2");
-		System.out.println("This is not testing anymore !");
+		System.out.println("This is awesome !");
 	}
-	// this is not comment
+	// this is the last comment
 }
